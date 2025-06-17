@@ -4,7 +4,7 @@
 
 ### Default Admin Account
 - **Username**: admin@gmail.com
-- **Password**: Admin@123
+- **Password**: admin123
 
 > **Note**: For security reasons, please change these default credentials after your first login.
 
